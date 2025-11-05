@@ -48,8 +48,8 @@ Acesse meus repositórios para ver exemplos práticos!
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaddc/S)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:guiidiasdc@gmail.com)
 
 ---
 

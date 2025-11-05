@@ -5,7 +5,7 @@
 
 Desenvolvedor Web — APIs, microserviços e automação. Entrega prática e foco em resultados.
 
-## 🔧 Skills rápidas
+## 🔧 Skills
 
 - Backend: Python (FastAPI), Node.js, Express
 - Frontend: HTML, CSS, Tailwind
@@ -39,4 +39,4 @@ Desenvolvedor Web — APIs, microserviços e automação. Entrega prática e foc
 
 > "Tecnologia é sobre pessoas, colaboração e evolução contínua."
 
-Obrigado por visitar!
+> Obrigado por visitar!

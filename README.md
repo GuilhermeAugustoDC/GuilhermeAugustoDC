@@ -44,6 +44,43 @@ Sou desenvolvedor web voltado para soluções modernas: APIs, microserviços e a
 
 Acesse meus repositórios para ver exemplos práticos!
 
+## 🗺️ Minha Jornada de Estudos em Desenvolvimento Web
+
+Desde o início dos meus estudos, tenho buscado evoluir através projetos práticos e desafios progressivos. Aqui está o caminho que venho trilhando:
+
+### 1. Início dos estudos: Node.js
+- **[estudosNode](https://github.com/GuilhermeAugustoDC/estudosNode)**
+  - Primeiros passos com Node.js, fundamentos, módulos e criação de aplicações básicas.
+
+### 2. Evolução e aprofundamento em POO
+- **[estudosNodeJs-POO](https://github.com/GuilhermeAugustoDC/estudosNodeJs-POO)**
+  - Aplicando conceitos de Programação Orientada a Objetos (POO) em Node.js para aprimorar a organização e reusabilidade do código.
+
+---
+
+#### Próximos Passos da Jornada
+
+Continuei avançando, integrando novas tecnologias e boas práticas:
+
+- **API com Express e MongoDB:**  
+  - [apiExpress-Mongodb](https://github.com/GuilhermeAugustoDC/apiExpress-Mongodb)  
+    Desenvolvimento de APIs REST e persistência de dados com MongoDB.
+- **Tratamento de Erros e Middlewares:**  
+  - [estudos-express-mongodb-v2](https://github.com/GuilhermeAugustoDC/estudos-express-mongodb-v2)  
+    Aprimoramento da API com tratamento de erros, validação e boas práticas.
+- **Microserviços com Telegram:**  
+  - [telegram-micro-services](https://github.com/GuilhermeAugustoDC/telegram-micro-services)  
+    Estudo e implementação de arquitetura de microserviços.
+- **Especialização Backend e Frontend microserviços:**  
+  - [telegram-microservices-BACKEND](https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND)  
+  - [telegram-microservices-FRONTEND](https://github.com/GuilhermeAugustoDC/telegram-microservices-FRONTEND)  
+    Consolidação das práticas de integração entre frontend e backend utilizando microserviços.
+
+---
+
+Cada projeto representa uma etapa importante no meu crescimento como desenvolvedor, com foco constante em boas práticas, aprendizado ativo e evolução técnica.
+
+
 ---
 
 ## 📫 Contato

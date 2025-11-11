@@ -1,6 +1,6 @@
 # 😊 Olá! Bem-vindo ao meu perfil do Github.
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&color=32CD32&center=true&vCenter=true&multiline=true&width=600&lines=Wake+up+Guilherme...;follow+the+white+rabbit.🐇)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=32CD32&center=true&vCenter=true&width=450&lines=Wake+up+Guilherme+Dias)](https://git.io/typing-svg)
 
 Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.
 <br>

@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/GuilhermeAugustoDC">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoDC&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=github_dark_dimmed&count_private=true"/>

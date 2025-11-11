@@ -4,8 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&width=600&lines=Olá,+me+chamo+Guilherme+Augusto." alt="Typing SVG" />
   </a>
-</p>
-<p align="center">
+  <br />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&width=600&lines=Desenvolvedor+Web+Full+Stack." alt="Typing SVG" />
   </a>
@@ -69,12 +68,7 @@
 
 - 🇧🇷 **Português (Brasil)**: Nativo
 - 🇺🇸 **Inglês**:
-
   - 🗣️ Fala: 7/10
   - ✍️ Escrita: 9/10
   - 📖 Leitura: 10/10
-<<<<<<< HEAD
   - 💬 Conversação: 7/10
-=======
-  - 💬 Conversação: 7/10
->>>>>>> d931ad26a079c9f17f97de24392370b9ec26efb7

@@ -59,5 +59,3 @@
   - ✍️ Escrita: 9/10
   - 📖 Leitura: 10/10
   - 💬 Conversação: 7/10
-
-- 🌐 Morando em: Brasil 🇧🇷

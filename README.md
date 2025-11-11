@@ -1,16 +1,31 @@
-# 😊 Bem-vindo ao meu perfil do Github.
+<h1 align="center">😊 Bem-vindo ao meu perfil do Github.</h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&width=800&lines=Olá,+me+chamo+Guilherme+Augusto!+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&width=600&lines=Olá,+me+chamo+Guilherme+Augusto." alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&width=600&lines=Desenvolvedor+Web+Full+Stack." alt="Typing SVG" />
+  </a>
+</p>
 
-<br>
 
-**Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.**
+<b>Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</b>
 <br>
 
 - 🔭 Atualmente focado em aprimorar minhas habilidades com **microserviços e automação**.
 - 🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.
 - 📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gaddc/) | [Instagram](https://www.instagram.com/guiidiasdc/) | [Email](mailto:guiidiasdc@gmail.com)
+</p>
+
+<h2 align="center">📫 Onde me encontrar</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaddc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/guiidiasdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F" alt="Instagram" /></a>
+  <a href="mailto:guiidiasdc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=D14836&color=D14836" alt="Email" /></a>
+</p>
 
 ## 🧠 Conhecimentos:
 
@@ -59,5 +74,3 @@
   - ✍️ Escrita: 9/10
   - 📖 Leitura: 10/10
   - 💬 Conversação: 7/10
-
-- 🌐 Morando em: Brasil 🇧🇷

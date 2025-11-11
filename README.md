@@ -15,22 +15,20 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 ## Conhecimentos:
 
 <p align="center">
-  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg"></img>
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/python/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/javascript/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/fastapi/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/express/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/html5/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/css3/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/mongodb/plain.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/mysql/plain.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/sqlite/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/sqlalchemy/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/sequelize/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/git/original.svg" />
 </p>
 <br>
 <br>

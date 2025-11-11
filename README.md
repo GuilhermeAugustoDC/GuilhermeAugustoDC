@@ -31,11 +31,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-
-
-
-
-## Projetos em Destaque:
+## 🚀 Projetos em Destaque:
 
 <p align="center">
   <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND">
@@ -53,5 +49,15 @@
   </a>
 </div>
 <br>
+
+## 🌍 Idiomas:
+
+- 🇧🇷 **Português (Brasil)**: Nativo
+- 🇺🇸 **Inglês**:
+
+  - 🗣️ Fala: 7/10
+  - ✍️ Escrita: 9/10
+  - 📖 Leitura: 10/10
+  - 💬 Conversação: 7/10
 
 - 🌐 Morando em: Brasil 🇧🇷

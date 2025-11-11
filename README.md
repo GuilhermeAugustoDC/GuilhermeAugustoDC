@@ -19,7 +19,7 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/javascript/original.svg" />
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/fastapi/original.svg" />
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
-  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/express/original.svg" />
+  <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/react/original.svg" />
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/html5/original.svg" />
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/css3/original.svg" />
   <img width="50" loading="lazy" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />

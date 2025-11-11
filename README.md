@@ -20,10 +20,20 @@
 <br>
 <br>
 
+## Projetos em Destaque:
+<p align="center">
+  <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=telegram-microservices-BACKEND&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-FRONTEND">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=telegram-microservices-FRONTEND&theme=github_dark_dimmed" />
+  </a>
+</p>
+
 <div>
   <a href="https://github.com/GuilhermeAugustoDC">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoDC&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=dracula&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoDC&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
   </a>
 </div>
 <br>

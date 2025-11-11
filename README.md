@@ -8,7 +8,7 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 - 🔭 Atualmente focado em aprimorar minhas habilidades com **microserviços e automação**.
 - 🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.
 - 📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gaddc/) | [Email](mailto:guiidiasdc@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gaddc/) | [Instagram](https://www.instagram.com/SEU_USUARIO_AQUI/) | [Email](mailto:guiidiasdc@gmail.com)
 <br>
 <br>
 
@@ -35,7 +35,7 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 <div>
   <a href="https://github.com/GuilhermeAugustoDC">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoDC&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=dracula&count_private=true"/>
   </a>
 </div>
 <br>

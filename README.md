@@ -1,6 +1,6 @@
 # 😊 Bem-vindo ao meu perfil do Github.
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=550&lines=Olá,+me+chamo+Guilherme+Augusto!+++Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=550&lines=Olá,+me+chamo+Guilherme+Augusto!+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
 
 # Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.
 <br>

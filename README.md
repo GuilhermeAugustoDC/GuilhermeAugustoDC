@@ -9,10 +9,11 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 - 🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.
 - 📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gaddc/) | [Instagram](https://www.instagram.com/guiidiasdc/) | [Email](mailto:guiidiasdc@gmail.com)
-<br>
-<br>
+  <br>
+  <br>
 
 ## Conhecimentos:
+
 <p align="center">
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -21,7 +22,7 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />

@@ -73,4 +73,8 @@
   - 🗣️ Fala: 7/10
   - ✍️ Escrita: 9/10
   - 📖 Leitura: 10/10
+<<<<<<< HEAD
   - 💬 Conversação: 7/10
+=======
+  - 💬 Conversação: 7/10
+>>>>>>> d931ad26a079c9f17f97de24392370b9ec26efb7

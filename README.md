@@ -15,8 +15,9 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 ## Conhecimentos:
 
 <p align="center">
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />

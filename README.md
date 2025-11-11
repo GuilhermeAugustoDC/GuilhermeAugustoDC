@@ -1,7 +1,7 @@
 <h1 align="center">😊 Bem-vindo ao meu perfil do Github.</h1>
 
 <p align="center">
-  <strong>Olá, me chamo Guilherme Augusto.<br/>Desenvolvedor Web Full Stack.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Olá,+me+chamo+Guilherme+Augusto;Desenvolvedor+Web+Full+Stack." alt="Typing SVG" />
 </p>
 
 <b>Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</b>
@@ -65,3 +65,5 @@
   - ✍️ Escrita: 9/10
   - 📖 Leitura: 10/10
   - 💬 Conversação: 7/10
+
+

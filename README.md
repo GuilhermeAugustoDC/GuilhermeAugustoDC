@@ -15,7 +15,7 @@ Acredito que desafios nos levam a grandes aprendizados e a uma evolução contí
 ## Conhecimentos:
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python%2Cjavascript%2Cfastapi%2Cnodejs%2Creact%2Chtml5%2Ccss3%2Ctailwindcss%2Cmongodb%2Cmysql%2Csqlite%2Csqlalchemy%2Csequelize%2Cgit&size=32&shape=circle&animationDuration=5&reverseBackground=true" alt="python-javascript-fastapi-nodejs-react-html5-css3-tailwindcss-mongodb-mysql-sqlite-sqlalchemy-sequelize-git" />
+ <img src="https://www.readmecodegen.com/api/social-icon?name=python%2Cjavascript%2Cfastapi%2Cnodejs%2Creact%2Chtml5%2Ccss3%2Ctailwindcss%2Cmongodb%2Cmysql%2Csqlite%2Csqlalchemy%2Csequelize%2Cgit&size=64&shape=circle&animationDuration=5&reverseBackground=true" alt="python-javascript-fastapi-nodejs-react-html5-css3-tailwindcss-mongodb-mysql-sqlite-sqlalchemy-sequelize-git" />
 </p>
 <br>
 <br>

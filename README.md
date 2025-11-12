@@ -4,12 +4,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Augusto;Desenvolvedor+Web+Full+Stack." alt="Typing SVG" /></a>
 </p>
 
-<h4 align="center">Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</h4>
-
-- 🔭 Atualmente focado em aprimorar minhas habilidades com **microserviços e autokt,mação**.
-- 🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.
-- 📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.
-</p>
+<h3 align="center">Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</h3>
+<h4 align="center">🔭 Atualmente focado em aprimorar minhas habilidades com **microserviços e autokt,mação**.</h3>
+<h4 align="center">🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.</h4>
+<h4 align="center">📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.</h4>
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">

@@ -1,7 +1,7 @@
 <h1 align="center">😊 Bem-vindo ao meu perfil do Github.</h1>
 <br>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Augusto;Sou+Desenvolvedor+Web+Full+Stack." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Augusto;Desenvolvedor+Web+Full+Stack." alt="Typing SVG" /></a>
 </p>
 
 <b>Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</b>

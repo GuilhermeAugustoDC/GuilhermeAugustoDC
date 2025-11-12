@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</h3>
-<h4 align="center">🔭 Atualmente focado em aprimorar minhas habilidades com microserviços e automações.</h3>
-<h4 align="center">🌱 Aprendendo e aplicando novas tecnologias, com foco em arquiteturas escaláveis e eficientes.</h4>
-<h4 align="center">📖 Iniciei minha jornada com <strong>Node.js</strong> e <strong>Python</strong>, construindo uma base sólida para o desenvolvimento backend.</h4>
+<p align="center">🔭 Atualmente focado em aprimorar minhas habilidades com microserviços e automações.</p>
+<p align="center">🌱 Aprendendo e aplicando novas tecnologias, com foco em arquiteturas escaláveis e eficientes.</p>
+<p align="center">📖 Iniciei minha jornada com <strong>Node.js</strong> e <strong>Python</strong>, construindo uma base sólida para o desenvolvimento backend.</p>
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">

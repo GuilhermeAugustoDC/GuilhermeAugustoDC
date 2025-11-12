@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">Acredito que desafios nos levam a grandes aprendizados e a uma evolução contínua.</h3>
-<h4 align="center">🔭 Atualmente focado em aprimorar minhas habilidades com **microserviços e autokt,mação**.</h3>
-<h4 align="center">🌱 Aprendendo e aplicando novas tecnologias, com foco em **arquiteturas escaláveis e eficientes**.</h4>
-<h4 align="center">📖 Iniciei minha jornada com **Node.js e Python**, construindo uma base sólida para o desenvolvimento backend.</h4>
+<h4 align="center">🔭 Atualmente focado em aprimorar minhas habilidades com microserviços e automações.</h3>
+<h4 align="center">🌱 Aprendendo e aplicando novas tecnologias, com foco em arquiteturas escaláveis e eficientes.</h4>
+<h4 align="center">📖 Iniciei minha jornada com <strong>Node.js</strong> e <strong>Python</strong>, construindo uma base sólida para o desenvolvimento backend.</h4>
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="mailto:guiidiasdc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=D14836&color=D14836" alt="Email" /></a>
 </p>
 
-## 🧠 Conhecimentos:
+<h2 align="center">🧠 Conhecimentos</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-## 🚀 Projetos em Destaque:
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
   <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND">

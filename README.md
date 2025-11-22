@@ -38,15 +38,14 @@
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/GuilhermeAugustoDC/telegram-micro-services">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=telegram-micro-services&theme=github_dark_dimmed" />
-  </a>
+  
   <a href="https://github.com/GuilhermeAugustoDC/BackEnd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=BackEnd&theme=github_dark_dimmed" />
   </a>
+  
   <a href="https://github.com/GuilhermeAugustoDC/FrontEnd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=FrontEnd&theme=github_dark_dimmed" />
-  </a>
+  </a>  
 </p>
 
 <div align="center">

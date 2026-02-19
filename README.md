@@ -38,22 +38,19 @@
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
-  
   <a href="https://github.com/GuilhermeAugustoDC/BackEnd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=BackEnd&theme=github_dark_dimmed" />
   </a>
-  
   <a href="https://github.com/GuilhermeAugustoDC/FrontEnd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=FrontEnd&theme=github_dark_dimmed" />
-  </a>  
-</p>
-
-<div align="center">
-  <a href="https://github.com/GuilhermeAugustoDC">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoDC&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoDC&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
   </a>
-</div>
+  <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-FRONTEND">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=telegram-microservices-FRONTEND&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAugustoDC&repo=telegram-microservices-BACKEND&theme=github_dark_dimmed" />
+  </a>
+</p>
 <br>
 
 ## 🌍 Idiomas:

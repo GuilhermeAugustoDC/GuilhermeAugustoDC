@@ -37,12 +37,48 @@
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-| Projeto                                                        | Descrição resumida          |
-|---------------------------------------------------------------|-----------------------------|
-| [BackEnd](https://github.com/GuilhermeAugustoDC/BackEnd)       | API REST em Node.js, etc.   |
-| [FrontEnd](https://github.com/GuilhermeAugustoDC/FrontEnd)     | Interface React, etc.       |
-| [telegram-microservices-FRONTEND](https://github.com/GuilhermeAugustoDC/telegram-microservices-FRONTEND)  | Frontend microserviços      |
-| [telegram-microservices-BACKEND](https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND)    | Backend microserviços       |
+<div align="center">
+
+  <table>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/GuilhermeAugustoDC/BackEnd"><strong>BackEnd</strong></a>
+      </td>
+      <td>
+        API REST desenvolvida em Node.js, focada em microserviços, automações de dados e integrações robustas com bancos de dados relacionais e NoSQL.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/GuilhermeAugustoDC/FrontEnd"><strong>FrontEnd</strong></a>
+      </td>
+      <td>
+        Interface web moderna desenvolvida com React, priorizando usabilidade, responsividade e integração com múltiplos serviços back-end.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-FRONTEND"><strong>telegram-microservices-FRONTEND</strong></a>
+      </td>
+      <td>
+        Frontend dedicado para um sistema baseado em microserviços, oferecendo painéis, relatórios e controle para funcionalidades do Telegram.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/GuilhermeAugustoDC/telegram-microservices-BACKEND"><strong>telegram-microservices-BACKEND</strong></a>
+      </td>
+      <td>
+        Backend robusto em Node.js e Python, responsável pelo processamento, automação e orquestração dos serviços relacionados ao Telegram.
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <br>
 
